@@ -1,5 +1,5 @@
 .hero h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     color:black;
     text-transform: uppercase;
@@ -23,10 +23,16 @@
 .about{
     text-align: center;
     align-items: center;
+    justify-content: center;
+    display: inline;
     margin: 40ox auto;
     margin-left: 20px;
     margin-right: 20ox;
     padding: 20ox;
-    line-height: 1.6;
+    line-height: 1.2;
     max-width: 800px;
+}
+.about p{
+    font-size: 18px;
+    color: #444;
 }
