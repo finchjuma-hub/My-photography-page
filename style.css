@@ -76,3 +76,15 @@
     color: #fff;
     transform: scaleX(1.05);
 }
+footer{
+    background-color: #f4f;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #555;
+    border-top: 1px solid #ccc;
+}
+footer p{
+    margin:0;
+}
