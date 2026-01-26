@@ -10,7 +10,16 @@
     padding-bottom: 10px;
 
 }
-.hero{
-    background-color: aqua;
-
+.hero {
+    background-color: beige;
+    text-align: center;
+    align-items: center;
+}
+.about h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    align-items: center;
+}
+.about{
+    text
 }
