@@ -36,3 +36,18 @@
     font-size: 18px;
     color: #444;
 }
+.gallery{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 20ox;
+}
+.gallery img{
+    border-radius: 8px;
+    box-shadow: 0 4px 8px #000;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+}
