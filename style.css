@@ -11,9 +11,17 @@
 
 }
 .hero {
-    background-color: beige;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
     text-align: center;
-    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #444;
+    background-color: #f9f9f9;
+    border-left: 4px solid #888;
+    box-shadow: 0 4px 8px #000;
+    border-radius: 8px;
 }
 .about h2{
     font-family: 'Times New Roman', Times, serif;
