@@ -1,0 +1,16 @@
+.hero h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:black;
+    text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+    margin: 50ox 0;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+
+}
+.hero{
+    background-color: aqua;
+
+}
