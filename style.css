@@ -138,6 +138,10 @@ nav ul li a:hover{
 .one{
     background-color: black;
 }
-body{
-    background-color: antiquewhite;
+.content{
+    background-color: rgb(255, 234, 208);
+    max-width: 100%;
+    max-height: 800px;
+    margin: 0 auto;
+    padding: 40px;
 }
