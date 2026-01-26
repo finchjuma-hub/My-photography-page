@@ -88,3 +88,28 @@ footer{
 footer p{
     margin:0;
 }
+nav{
+    background-color: #222;
+    padding: 15px 0;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin: 0;
+    padding: 0;
+}
+nav ul li a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #eee;
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+nav ul li a:hover{
+    background-color: #eee;
+    color: #222;
+}
