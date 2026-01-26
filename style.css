@@ -175,3 +175,13 @@ nav ul li a:hover{
 .images img:hover{
     transform: scale(1.05)
 }
+h2{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: gold;
+
+}
