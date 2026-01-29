@@ -316,3 +316,25 @@ button:hover{
     font-family: 'Times New Roman', Times, serif;
     margin-bottom: 5px;
 }
+.contact-info h3, .contact-info h4{
+    margin-top: 0;
+    color: #333;
+}
+.contact-info p{
+    margin: 8px o;
+    color: #444;
+}
+.contact-info a{
+    color: #f9dd81;
+    text-decoration: none;
+    font-weight: bold;
+}
+.contact-info a:hover{
+    text-decoration: underline;
+}
+.details{
+    display: flex;
+    gap:40px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
