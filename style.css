@@ -309,3 +309,10 @@ button{
 button:hover{
     background-color: #333;
 }
+#invitation{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 5px;
+}
