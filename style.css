@@ -177,16 +177,7 @@ nav ul li a:hover{
 .images img:hover{
     transform: scale(1.05)
 }
-h2{
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    font-size: 15px;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
-    color: gold;
-    
-}
+ 
 .fbio p{
     font-size: 18px;
     color: #444;
@@ -356,11 +347,14 @@ button:hover{
 #design-attatchment{
     padding: 2rem;
     background-color: floralwhite;
-    border-top: 2px solid#d4af37;
+    /* border-top: 2px solid#d4af37; */
 }
 #design-attachment h2{
     text-align: center;
     font-size: 2rem;
     color: #333;
     margin-bottom: 2rem;
+}
+.intro{
+    background-color: #000;
 }
