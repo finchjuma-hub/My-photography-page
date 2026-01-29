@@ -266,7 +266,7 @@ h2{
     padding: 40px;
 }
 #contact{
-    background-color: #fdf6fd;
+    background-color: #fff;
     padding: 40px;
     border-radius: 12px;
     max-width: 600px;
@@ -297,7 +297,7 @@ input, textarea{
     font-family: 'Times New Roman', Times, serif;
 }
 button{
-    background-color: #d4af37;
+    background-color: #f9dd81;
     color: white;
     padding: 12px;
     border: none;
@@ -307,5 +307,5 @@ button{
     transition: background 0.3s ease;
 }
 button:hover{
-    background-color: #b38e2e;
+    background-color: #333;
 }
