@@ -47,7 +47,17 @@ This project is licensed under the MIT license.
 ## Design Attachment
 A curated section of favourite photographs from Finch Photography:
 
--Night Cityscape
- Urban glow and architectural rythm, capturing the pulse of the city after dark.
+-[Night Cityscape]
+ *Urban glow and architectural rythm, capturing the pulse of the city after dark.*
+
+-[Street life and motion]
+ *Everyday motion and metropolotan texture, where stories unfold in the open.*
+
+-[Sidewalk Contrast]
+ *Grit meets greenery in a frame of lived-in infrastructure.*
+
+-[Tree-Lined Road]
+ *Serenity and symmetry, nature's corridor through quiet motion.*
+
 
 
