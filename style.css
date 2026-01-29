@@ -57,7 +57,7 @@
     gap: 20px;
     flex-wrap: wrap;
     padding: 20ox;
-    margin-top: 50px;
+    margin-top: 10px;
 }
 .gallery img{
     border-radius: 8px;
@@ -264,4 +264,48 @@ h2{
     max-height: 950px;
     margin: 0 auto;
     padding: 40px;
+}
+#contact{
+    background-color: #fdf6fd;
+    padding: 40px;
+    border-radius: 12px;
+    max-width: 600px;
+    margin: 50px auto;
+    box-shadow: 0 4px 12px #000;
+}
+#contact h2{
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+label{
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+input, textarea{
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    background-color: #d4af37;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+button:hover{
+    background-color: #b38e2e;
 }
