@@ -185,3 +185,56 @@ h2{
     color: gold;
     
 }
+/* #team{
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+}
+.member{
+    text-align: center;
+    max-width: 300px;
+}
+.member img{
+    width:100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px #000; */
+
+#team h2{
+     font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:black;
+    text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+    margin: 50ox 0;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+#team p{
+    font-size: 18px;
+    color: #444;
+}
+#team h3{
+     font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:black;
+    text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+    margin: 50ox 0;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+#team{
+     max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #444;
+    background-color: #f9f9f9;
+    border-left: 4px solid #888;
+    box-shadow: 0 4px 8px #000;
+    border-radius: 8px;
+}
