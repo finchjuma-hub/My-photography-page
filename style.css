@@ -1,4 +1,4 @@
-.hero h1{
+#hero h1{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     color:black;
@@ -10,7 +10,7 @@
     padding-bottom: 10px;
 
 }
-.hero {
+#hero {
     max-width: 800px;
     margin: 40px auto;
     padding: 20px;
@@ -23,7 +23,7 @@
     box-shadow: 0 4px 8px #000;
     border-radius: 8px;
 }
-.about h2{
+#about h2{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     color:black;
@@ -34,7 +34,7 @@
     border-bottom: 2px solid #ccc;
     padding-bottom: 10px;
 }
-.about{
+#about{
      max-width: 800px;
     margin: 40px auto;
     padding: 20px;
@@ -47,7 +47,7 @@
     box-shadow: 0 4px 8px #000;
     border-radius: 8px;
 }
-.about p{
+#about p{
     font-size: 18px;
     color: #444;
 }
@@ -57,6 +57,7 @@
     gap: 20px;
     flex-wrap: wrap;
     padding: 20ox;
+    margin-top: 50px;
 }
 .gallery img{
     border-radius: 8px;
@@ -147,7 +148,7 @@ nav ul li a:hover{
 .content{
     background-color: rgb(255, 234, 208);
     max-width: 100%;
-    max-height: 800px;
+    max-height: 700px;
     margin: 0 auto;
     padding: 40px;
 }
@@ -185,36 +186,11 @@ h2{
     color: gold;
     
 }
-/* #team{
-    display: flex;
-    gap: 40px;
-    margin-top: 40px;
-}
-.member{
-    text-align: center;
-    max-width: 300px;
-}
-.member img{
-    width:100%;
-    border-radius: 10px;
-    box-shadow: 0 4px 12px #000; */
-
-#team h2{
-     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    color:black;
-    text-transform: uppercase;
-    text-align: center;
-    align-items: center;
-    margin: 50ox 0;
-    border-bottom: 2px solid #ccc;
-    padding-bottom: 10px;
-}
-#team p{
+.fbio p{
     font-size: 18px;
     color: #444;
 }
-#team h3{
+.fbio h3{
      font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     color:black;
@@ -225,7 +201,7 @@ h2{
     border-bottom: 2px solid #ccc;
     padding-bottom: 10px;
 }
-#team{
+.fbio{
      max-width: 800px;
     margin: 40px auto;
     padding: 20px;
@@ -237,4 +213,55 @@ h2{
     border-left: 4px solid #888;
     box-shadow: 0 4px 8px #000;
     border-radius: 8px;
+}
+.fbio img{
+    border-radius: 8px;
+    box-shadow: 0 4px 8px #000;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+}
+.dbio p{
+    font-size: 18px;
+    color: #444;
+}
+.dbio h3{
+     font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:black;
+    text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+    margin: 50ox 0;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+.dbio{
+     max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #444;
+    background-color: #f9f9f9;
+    border-left: 4px solid #888;
+    box-shadow: 0 4px 8px #000;
+    border-radius: 8px;
+}
+.dbio img{
+    border-radius: 8px;
+    box-shadow: 0 4px 8px #000;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+}
+#team{
+    background-color: rgb(255, 234, 208);
+    max-width: 100%;
+    max-height: 950px;
+    margin: 0 auto;
+    padding: 40px;
 }
