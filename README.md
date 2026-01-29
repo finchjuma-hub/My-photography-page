@@ -8,6 +8,7 @@ styled gallery
 About section introducing Finch Photography
 Responsive footer with social media links
 Clean, modern design using HTML and CSS
+Contact form integration
 
 ## Technologies used
 HTML for the structure
@@ -19,6 +20,7 @@ Unsplach for imagesand placeholders
 Showcase photography professionally in a clean, modern web layout
 Provide and accessible portfolio for clients and collaborators
 Experiment with elegant design, responsive layouts and interactive features
+create a warm, inviting user experience
 
 ## Future Improvements
 Add a contact form with email integration
@@ -37,4 +39,7 @@ This website is designed to adapt to different screen sizes:
   Mobile  
 
 ## Inspiration
-Finch Photography draws inspiration from everyday life, biodiversity and street culture.  
+Finch Photography draws inspiration from everyday life, biodiversity and street culture. 
+
+## License
+This project is licensed under the MIT license.

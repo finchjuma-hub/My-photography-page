@@ -266,7 +266,7 @@ h2{
     padding: 40px;
 }
 #contact{
-    background-image: url(https://images.unsplash.com/photo-1769292169556-2029133158ea?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8);
+    background-color: #fff;
     padding: 40px;
     border-radius: 12px;
     max-width: 600px;
@@ -286,7 +286,7 @@ form{
 }
 label{
     padding: 12px;
-    border: 1px solid #333;
+    border: 1px solid #060000;
     border-radius: 8px;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -315,6 +315,11 @@ button:hover{
     align-items: center;
     font-family: 'Times New Roman', Times, serif;
     margin-bottom: 5px;
+    background-color: floralwhite;
+    max-width: 100%;
+    max-height: 10px;
+    margin: 0 auto;
+    padding: 40px;
 }
 .contact-info h3, .contact-info h4{
     margin-top: 0;
@@ -337,12 +342,13 @@ button:hover{
     gap:40px;
     flex-wrap: wrap;
     margin-top: 20px;
-    background-color: antiquewhite;
+    background-color: rgb(136, 137, 138);
+    font-weight: bold;
 }
 .one{
-    background-color: #888;
+    background-color: rgb(255, 234, 208);
     max-width: 100%;
-    max-height: 950px;
+    max-height: 800px;
     margin: 0 auto;
     padding: 40px;
 }
