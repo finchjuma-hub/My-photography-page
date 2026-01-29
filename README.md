@@ -43,3 +43,11 @@ Finch Photography draws inspiration from everyday life, biodiversity and street 
 
 ## License
 This project is licensed under the MIT license.
+
+## Design Attachment
+A curated section of favourite photographs from Finch Photography:
+
+-Night Cityscape
+ Urban glow and architectural rythm, capturing the pulse of the city after dark.
+
+
